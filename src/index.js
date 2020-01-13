@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+import './index.scss'
+
 function App() {
   return <div>Hi</div>;
 }
