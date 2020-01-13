@@ -1,5 +1,6 @@
 # Boilerplate for React/Parcel
 
+This is a basic boilerplate using ReactJS as the framework, ParcelJS for bundling, Babel for transpiling.
 
 ## Installation
 
