@@ -1,11 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "./index.scss";
 
-import './index.scss'
+import App from "./App.js";
 
-function App() {
-  return <div>Hi</div>;
-}
-
-var mountNode = document.getElementById("app");
-ReactDOM.render(<App />, mountNode);
+ReactDOM.render(<App />, document.getElementById("app"));
